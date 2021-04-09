@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dayoung%20Kim&fontSize=90)
 
-<h3 align="center">🌱 This is Dayoung's Github 🌱</h3>
+<h3 align="center">🍋 This is Dayoung's Github 🍋</h3>
 
 <h4 align="center"><br>✨ Tech Stack ✨</h4>
 <h6 align="center">(I've used before)</h6>
