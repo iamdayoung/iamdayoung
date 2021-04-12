@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dayoung%20Kim&fontSize=90)
 
-<h3 align="center">🍋 This is Dayoung's Github 🍋</h3>
+<h4 align="center">🇰🇷 KOREA 🇰🇷</h4>
+<h4 align="center">🥳 1998.02.25 🥳</h4>
+<h4 align="center">👩🏻‍💻 Web Developer 👩🏻‍💻</h4>
 
-<h4 align="center"><br>✨ Tech Stack ✨</h4>
+<h4 align="center">✨ Tech Stack ✨</h4>
 <h6 align="center">(I've used before)</h6>
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
