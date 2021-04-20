@@ -23,8 +23,9 @@
 <a href="https://www.instagram.com/iam._.dayoung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iam._.dayoung/"/></a>
 <a href="mailto:ekdud912@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p> 
+<br/>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=THANK%20YOU!&fontSize=20)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=20&section=footer&text=THANK%20YOU!&fontSize=10)
 
 <!--
 **iamdayoung/iamdayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
