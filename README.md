@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dayoung%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Dayoung%20Kim&fontSize=80&animation=twinkling&fontAlignY=38)
 
 <h4 align="center">🇰🇷 KOREA 🇰🇷</h4>
 <h4 align="center">🥳 1998.02.25 🥳</h4>
@@ -27,6 +27,7 @@
 <a href="mailto:ekdud912@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p> 
 
+![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=THANK%20YOU!&fontSize=20)
 
 <!--
 **iamdayoung/iamdayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
