@@ -25,7 +25,7 @@
 </p> 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <!--
 **iamdayoung/iamdayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
