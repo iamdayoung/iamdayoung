@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Dayoung%20Kim&fontSize=80&animation=twinkling&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dayoung%20Kim&fontSize=80&animation=twinkling&fontAlignY=38)
 
 <h4 align="center">👩🏻‍💻 Web Developer 👩🏻‍💻</h4>
 
@@ -25,7 +25,7 @@
 </p> 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=20&section=footer&text=THANK%20YOU!&fontSize=10)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
 
 <!--
 **iamdayoung/iamdayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
