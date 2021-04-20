@@ -1,11 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Dayoung%20Kim&fontSize=80&animation=twinkling&fontAlignY=38)
 
-<h4 align="center">🇰🇷 KOREA 🇰🇷</h4>
-<h4 align="center">🥳 1998.02.25 🥳</h4>
 <h4 align="center">👩🏻‍💻 Web Developer 👩🏻‍💻</h4>
 
 <h4 align="center">✨ Tech Stack ✨</h4>
-<h6 align="center">(I've used before)</h6>
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>
@@ -20,7 +17,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </p>
   
-<h4 align="center"><br>👇🏻👇🏻 M O R E 👇🏻👇🏻</h4>
+<h4 align="center"><br>🎈 M O R E 🎈</h4>
 <p align="center">
 <a href="https://github.com/iamdayoung"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iamdayoung"/></a>
 <a href="https://www.instagram.com/iam._.dayoung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iam._.dayoung/"/></a>
