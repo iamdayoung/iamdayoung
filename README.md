@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dayoung%20Kim&fontSize=80&animation=twinkling&fontAlignY=38)
 
-<h4 align="center">👩🏻‍💻 Junior Web Developer 👩🏻‍💻</h4>
+<h4 align="center">👩🏻‍💻 Web Developer 👩🏻‍💻</h4>
 <p align="center">
 <a target="_blank" href="https://www.notion.so/57f93b7af36942cf9699998c7361b906"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
