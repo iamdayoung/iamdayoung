@@ -2,7 +2,7 @@
 
 <h4 align="center">👩🏻‍💻 Web Developer 👩🏻‍💻</h4>
 <p align="center">
-<a target="_blank" href="https://www.notion.so/57f93b7af36942cf9699998c7361b906"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a target="_blank" href="https://accurate-sulfur-81a.notion.site/57f93b7af36942cf9699998c7361b906"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 <h4 align="center">✨ Tech Stack ✨</h4>
 <p align="center">
