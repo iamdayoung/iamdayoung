@@ -6,6 +6,7 @@
 </p>
 <h4 align="center">✨ Tech Stack ✨</h4>
 <p align="center">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -16,14 +17,22 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </p>
-  
-<h4 align="center"><br>🎈 M O R E 🎈</h4>
+
+<h4 align="center">🌱 Experience about <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> 🌱</h4>
 <p align="center">
-<a href="https://github.com/iamdayoung"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iamdayoung"/></a>
-<a href="https://www.instagram.com/iam._.dayoung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iam._.dayoung/"/></a>
-<a href="mailto:ekdud912@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
+</p>
+<h4 align="center"><br>🎈 M O R E 🎈</h4>
+
+<p align="center">
+<!-- <a href="https://github.com/iamdayoung"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/iamdayoung"/></a> -->
+<!-- <a href="https://www.instagram.com/iam._.dayoung/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/iam._.dayoung/"/></a> -->
+<a href="mailto:ekduddl912@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<h5 align="center">If you have any question, Contect me!</h5>
 
 </p> 
 <br/>
