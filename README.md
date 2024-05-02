@@ -1,11 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dayoung%20Kim&fontSize=80&animation=twinkling&fontAlignY=38)
-
-<h4 align="center">👩🏻‍💻 Web Developer 👩🏻‍💻</h4>
+<h2 align="center">Hi, This is Dayoung Kim 💓</h2>
+<h4 align="center">👩🏻‍💻 Web Developer from South Korea 👩🏻‍💻</h4>
 <p align="center">
 <a target="_blank" href="https://iamdayoung.notion.site/57f93b7af36942cf9699998c7361b906"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 <h4 align="center">✨ Tech Stack ✨</h4>
 <p align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,php,javascript,html,css,mysql,aws" />
+  </a>
+</p>
+<!--
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=Php&logoColor=white"/>
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>
@@ -20,10 +26,12 @@
 </p>
 
 <h4 align="center">🌱 Experience about <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> 🌱</h4>
+-->
+<h4 align="center">🌱 Experience about AWS 🌱</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/>
 </p>
 <h4 align="center"><br>🎈 M O R E 🎈</h4>
@@ -38,7 +46,6 @@
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
 <!--
 **iamdayoung/iamdayoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
